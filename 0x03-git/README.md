@@ -1,1 +1,1 @@
-This is a git project or ALX
+This is a git project or ALX students
